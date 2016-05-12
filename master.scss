@@ -2,19 +2,15 @@ $color1: #E44C40;
 $color2: #ffffff;
 $color3: #364A5E;
 $transition: all 0.2s ease-in-out;
-$slider-height-desktop: 600px;
-$slider-height-mobile: 300px;
-$slider-height-tablet: 400px;
+$slider-height-desktop: 100vh;
+$slider-height-mobile: 100vh;
+$slider-height-tablet: 100vh;
 $font: 'Montserrat', sans-serif;
 
 
 body.storm {
     background-color:#e6e6e6;   
     font-family:$font;
-}
-
-nav {
-    height:100px;   
 }
 
 .btn-signup.btn {

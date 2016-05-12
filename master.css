@@ -2,9 +2,6 @@ body.storm {
   background-color: #e6e6e6;
   font-family: "Montserrat", sans-serif; }
 
-nav {
-  height: 100px; }
-
 .btn-signup.btn {
   background-color: #E44C40;
   color: #ffffff;
@@ -35,7 +32,7 @@ header .hero-unit {
   background-image: url(images/bg-stormtest.jpg);
   background-size: cover;
   background-position: center;
-  min-height: 600px;
+  min-height: 100vh;
   position: relative; }
 
 header .hero-unit h1 {
@@ -78,18 +75,18 @@ header .hero-unit .caption {
     font-size: 50px; }
 
   header .hero-unit {
-    min-height: 600px; } }
+    min-height: 100vh; } }
 @media (min-width: 767px) and (max-width: 1200px) {
   header .hero-unit h1 {
     font-size: 38px; }
 
   header .hero-unit {
-    min-height: 400px; } }
+    min-height: 100vh; } }
 @media (max-width: 767px) {
   header .hero-unit h1 {
     font-size: 30px; }
 
   header .hero-unit {
-    min-height: 300px; } }
+    min-height: 100vh; } }
 
 /*# sourceMappingURL=master.css.map */
