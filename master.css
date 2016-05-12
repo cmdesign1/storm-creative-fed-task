@@ -63,7 +63,10 @@ header .hero-unit .caption {
   margin: 0px; }
 
 .modal-body .form-group input[type="submit"] {
-  margin: auto; }
+  margin: auto;
+  background-color: #E44C40;
+  color: #ffffff;
+  border: #E44C40 5px solid; }
 
 .modal-body .form-group:last-child {
   text-align: center;

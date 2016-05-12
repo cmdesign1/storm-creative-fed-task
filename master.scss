@@ -84,6 +84,9 @@ header .hero-unit .caption {
 
 .modal-body .form-group input[type="submit"] {
     margin:auto;
+    background-color:$color1;
+    color:$color2;
+    border:$color1 5px solid;
 }
 
 .modal-body .form-group:last-child {
